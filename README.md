@@ -17,6 +17,7 @@ _This applications shows information about the author and links between several 
 ## Known Bugs
 
 _no known bugs_
+_...so far..._
 
 ## Support and contact details
 
